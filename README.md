@@ -1,4 +1,4 @@
-This is a project focusing on predicting customer's repayment ablilities as a part of Kaggle competiion.
+This is a project focusing on predicting customer's repayment ablilities as a part of Kaggle competition.
 Data for this project can be downloaded on this website: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
 I used both Python and Pyspark for this project.
